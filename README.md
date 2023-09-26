@@ -1,7 +1,3 @@
-# blog-core-server
-blog-core-server
-
-
 ## Getting Started
 
 Follow these steps to get the project up and running on your local environment:
